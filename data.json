@@ -1,0 +1,6 @@
+{
+    "projectName": "My First Project",
+    "version": "1.0",
+    "author": "Jun Lee",
+    "features": ["HTML", "CSS", "JS"]
+}

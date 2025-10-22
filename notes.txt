@@ -1,0 +1,6 @@
+Project Notes:
+
+1. HTML structure done
+2. CSS styling done
+3. Plan to add JS functions
+4. Keep notes here
