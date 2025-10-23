@@ -1,0 +1,38 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f0f8ff; /* AliceBlue background */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #4682b4; /* SteelBlue */
+    color: white;
+    padding: 20px 0;
+}
+
+/* Section styling */
+section {
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #e6f2ff;
+    width: 80%;
+    border-radius: 10px;
+}
+
+/* Footer styling */
+footer {
+    margin-top: 30px;
+    padding: 10px 0;
+    background-color: #4682b4;
+    color: white;
+    border-radius: 5px;
+}
